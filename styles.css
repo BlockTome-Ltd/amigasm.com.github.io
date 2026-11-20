@@ -434,3 +434,17 @@ body {
         padding: 3.5rem 1rem;
     }
 }
+
+/* Multiple game cards + itch.io links */
+.game-card + .game-card {
+    margin-top: 3rem;
+}
+
+.game-link {
+    margin-top: 2rem;
+}
+
+.itch-profile {
+    text-align: center;
+    margin-top: 3rem;
+}
